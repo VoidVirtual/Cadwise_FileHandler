@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadwise_FileHandler", "Cadwise_FileHandler\Cadwise_FileHandler.csproj", "{466CBFFD-0F5C-4EA7-87BA-553AEA962EDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadwise_FileHandlerUnitTest", "Cadwise_FileHandlerUnitTest\Cadwise_FileHandlerUnitTest.csproj", "{4B540CD1-93EE-4727-BFD4-ADFE84786634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{466CBFFD-0F5C-4EA7-87BA-553AEA962EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466CBFFD-0F5C-4EA7-87BA-553AEA962EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466CBFFD-0F5C-4EA7-87BA-553AEA962EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466CBFFD-0F5C-4EA7-87BA-553AEA962EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B540CD1-93EE-4727-BFD4-ADFE84786634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B540CD1-93EE-4727-BFD4-ADFE84786634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B540CD1-93EE-4727-BFD4-ADFE84786634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B540CD1-93EE-4727-BFD4-ADFE84786634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35
+		SolutionGuid = {7EEB6C1E-618F-4CA6-ADAF-9C82C224DB3B}
+	EndGlobalSection
+EndGlobal
